@@ -6,7 +6,7 @@
 ## Application Demo
   * ### Home Page
   
-  ![](https://gyazo.com/2774db49d43201c47493c7a236d296ba)
+  ![](https://i.gyazo.com/2774db49d43201c47493c7a236d296ba.png)
   * ### Survey Page
   
   ![](https://i.gyazo.com/08492b75db2654109540f0697bf4ab60.png)
